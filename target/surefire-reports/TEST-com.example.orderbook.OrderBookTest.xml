@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.orderbook.OrderBookTest" time="0.195" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.orderbook.OrderBookTest" time="0.19" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="SG"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/22.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/liwanghuan/Documents/orderbook-aggregator/target/surefire/surefirebooter-20240811181657609_3.jar /Users/liwanghuan/Documents/orderbook-aggregator/target/surefire 2024-08-11T18-16-57_573-jvmRun1 surefire-20240811181657609_1tmp surefire_0-20240811181657609_2tmp"/>
+    <property name="sun.java.command" value="/Users/liwanghuan/Documents/orderbook-aggregator/target/surefire/surefirebooter-20240811184934932_3.jar /Users/liwanghuan/Documents/orderbook-aggregator/target/surefire 2024-08-11T18-49-34_892-jvmRun1 surefire-20240811184934932_1tmp surefire_0-20240811184934932_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/liwanghuan/Documents/orderbook-aggregator/target/test-classes:/Users/liwanghuan/Documents/orderbook-aggregator/target/classes:/Users/liwanghuan/.m2/repository/org/java-websocket/Java-WebSocket/1.5.2/Java-WebSocket-1.5.2.jar:/Users/liwanghuan/.m2/repository/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar:/Users/liwanghuan/.m2/repository/org/slf4j/slf4j-simple/2.0.7/slf4j-simple-2.0.7.jar:/Users/liwanghuan/.m2/repository/org/apache/kafka/kafka-clients/3.5.1/kafka-clients-3.5.1.jar:/Users/liwanghuan/.m2/repository/com/github/luben/zstd-jni/1.5.5-1/zstd-jni-1.5.5-1.jar:/Users/liwanghuan/.m2/repository/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/Users/liwanghuan/.m2/repository/org/xerial/snappy/snappy-java/1.1.10.1/snappy-java-1.1.10.1.jar:/Users/liwanghuan/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/Users/liwanghuan/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/liwanghuan/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/liwanghuan/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar:/Users/liwanghuan/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/liwanghuan/.m2/repository/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar:/Users/liwanghuan/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/liwanghuan/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar:/Users/liwanghuan/.m2/repository/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar:/Users/liwanghuan/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar:/Users/liwanghuan/.m2/repository/org/mockito/mockito-core/4.0.0/mockito-core-4.0.0.jar:/Users/liwanghuan/.m2/repository/net/bytebuddy/byte-buddy/1.11.19/byte-buddy-1.11.19.jar:/Users/liwanghuan/.m2/repository/net/bytebuddy/byte-buddy-agent/1.11.19/byte-buddy-agent-1.11.19.jar:/Users/liwanghuan/.m2/repository/org/objenesis/objenesis/3.2/objenesis-3.2.jar:"/>
@@ -29,12 +29,12 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/liwanghuan/Documents/orderbook-aggregator/target/surefire/surefirebooter-20240811181657609_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/liwanghuan/Documents/orderbook-aggregator/target/surefire/surefirebooter-20240811184934932_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="22.0.2"/>
     <property name="user.name" value="liwanghuan"/>
-    <property name="stdout.encoding" value="US-ASCII"/>
+    <property name="stdout.encoding" value="UTF-8"/>
     <property name="path.separator" value=":"/>
     <property name="os.version" value="13.5"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -44,22 +44,21 @@
     <property name="localRepository" value="/Users/liwanghuan/.m2/repository"/>
     <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
     <property name="java.io.tmpdir" value="/var/folders/01/ggjkhwzx4ddgts_r_jh811cm0000gn/T/"/>
-    <property name="idea.version" value="2024.2"/>
     <property name="java.version" value="22.0.2"/>
     <property name="user.dir" value="/Users/liwanghuan/Documents/orderbook-aggregator"/>
     <property name="os.arch" value="aarch64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="native.encoding" value="US-ASCII"/>
+    <property name="native.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/liwanghuan/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
-    <property name="stderr.encoding" value="US-ASCII"/>
+    <property name="stderr.encoding" value="UTF-8"/>
     <property name="java.vendor" value="Homebrew"/>
     <property name="java.vm.version" value="22.0.2"/>
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="testProcessOrderBookMessage" classname="com.example.orderbook.OrderBookTest" time="0.183"/>
+  <testcase name="testProcessOrderBookMessage" classname="com.example.orderbook.OrderBookTest" time="0.178"/>
   <testcase name="testGenerateAndLogCandle" classname="com.example.orderbook.OrderBookTest" time="0.003"/>
-  <testcase name="testSanityCheck" classname="com.example.orderbook.OrderBookTest" time="0.0"/>
+  <testcase name="testSanityCheck" classname="com.example.orderbook.OrderBookTest" time="0.001"/>
 </testsuite>

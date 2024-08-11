@@ -1,4 +1,4 @@
-package com.example.orderbook;
+package com.gsr.orderbook;
 
 import org.java_websocket.client.WebSocketClient;
 import org.java_websocket.handshake.ServerHandshake;
@@ -10,7 +10,6 @@ import com.google.gson.JsonSyntaxException;
 
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.util.Map;
 import java.util.TreeMap;
 
 public class App {
